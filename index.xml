@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tnotes</title>
-    <link>https://example.com/</link>
+    <link>https://talha-altair.github.io/tnotes/</link>
     <description>Recent content on Tnotes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 11 Jun 2021 10:49:17 +0530</lastBuildDate>
     
-	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://talha-altair.github.io/tnotes/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>sample-somthing</title>
-      <link>https://example.com/posts/sample-note/</link>
+      <link>https://talha-altair.github.io/tnotes/posts/sample-note/</link>
       <pubDate>Fri, 11 Jun 2021 10:49:17 +0530</pubDate>
       
-      <guid>https://example.com/posts/sample-note/</guid>
+      <guid>https://talha-altair.github.io/tnotes/posts/sample-note/</guid>
       <description>sample-note
 Project Title A brief description of what this project does and who it&amp;rsquo;s for Screenshots asdawd
 Used By This project is used by the following companies:
